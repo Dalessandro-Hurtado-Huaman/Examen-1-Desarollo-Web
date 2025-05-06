@@ -1,0 +1,139 @@
+#cabecera img{
+    width: 7%;
+    margin: 3%;
+    border-radius: 300px;
+    
+}
+#cabecera h1{
+    text-align: right;
+    color: #1388c7;   
+    text-shadow: 2px 5px 10px grey;
+    font-family: 'Cascadia Mono', monospace ;
+    margin: 1%
+  
+}
+#cabecera p{
+    text-align: right;
+    font-size: 30px;
+    font-family: 'Fjalla One', sans-serif;
+    
+}
+.span1{
+    background-color: rgba(214, 206, 206, 0.956);
+}
+.span2{
+    background-color: white;
+
+}
+#cajamayor{
+    border: 3px black solid;
+    text-align: center;
+    margin: auto;
+    display: flex;  
+    justify-content: space-evenly;
+    
+  
+}
+.minicaja{
+    display: flex; 
+    justify-content: space-between;
+    flex-wrap: wrap;
+    
+}
+.bloque1, .bloque2 , .bloque3{
+    display: block;
+    width: 31%;
+    margin: 1%;
+    box-sizing: border-box;
+    border: 1px rgb(33, 28, 28) solid;
+    
+  
+}
+.bloque1 p, .bloque2 p, .bloque3 p{
+    text-align: left;
+    font-size: 30px;
+    margin-left: 1%;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+     
+}    
+.bloque1 h2{
+    text-align: center;
+    background-color: rgb(231, 83, 29);
+    margin: 2%;
+    color: white;
+    font-size: 50px;
+}
+.bloque2 h2{
+    text-align: center;
+    background-color: rgb(40, 108, 181);
+    margin: 2%;
+    color: white;
+    font-size: 50px;
+} 
+.bloque3 h2{
+    text-align:center;
+    background-color: rgb(59, 134, 31);
+    margin: 2%;
+    color: white;
+    font-size: 50px;
+}
+.bloque1{
+    background-color: rgb(246, 226, 226);
+}
+.bloque2{   
+    background-color: rgb(213, 246, 246)   
+}
+.bloque3{
+    background-color: rgb(198, 235, 182); 
+}
+#cajamayor2{
+    border: 3px black solid;
+    text-align: center;
+    margin: auto;
+    display: flex;  
+    justify-content: space-evenly;
+}   
+.minicaja2{
+    display: flex; 
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+
+#imagen1{
+    display: block;
+    margin:10% 23%;
+    box-shadow: 50px 30px 5px 10px rgb(171, 167, 167);
+    border: black 1px solid;   
+}
+.pie{
+    font-size: 45px;
+    text-align: center;
+    background-color: rgb(220, 220, 220); 
+    margin-right: 30%;  
+    margin-left: 25%; 
+    border-radius: 5%
+    
+    
+    
+}
+#CuerpoTotal{
+    background-image: url(imagenes/imagenes/fondo.jpg);    
+    border: 7px rgb(146, 102, 102) groove;
+}
+
+.textogrande{
+    font-size: 60px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin-left: 1%
+;   }
+
+
+
+
+
+
+
+
+
+
+
